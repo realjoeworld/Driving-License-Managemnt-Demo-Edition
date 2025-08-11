@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\DVLDBussniss\bin\Debug\DVLDBussniss.dll
+C:\Users\Lenovo\source\repos\DVLDBussniss\bin\Debug\DVLDBussniss.pdb
+C:\Users\Lenovo\source\repos\DVLDBussniss\bin\Debug\PersonDataAccess.dll
+C:\Users\Lenovo\source\repos\DVLDBussniss\bin\Debug\PersonDataAccess.pdb
+C:\Users\Lenovo\source\repos\DVLDBussniss\obj\Debug\DVLDBussniss.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DVLDBussniss\obj\Debug\DVLDBussniss.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DVLDBussniss\obj\Debug\DVLDBuss.1B6345DB.Up2Date
+C:\Users\Lenovo\source\repos\DVLDBussniss\obj\Debug\DVLDBussniss.dll
+C:\Users\Lenovo\source\repos\DVLDBussniss\obj\Debug\DVLDBussniss.pdb

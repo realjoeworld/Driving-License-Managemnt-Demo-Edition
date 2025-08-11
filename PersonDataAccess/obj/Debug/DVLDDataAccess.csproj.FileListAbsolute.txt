@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\PersonDataAccess\bin\Debug\PersonDataAccess.dll
+C:\Users\Lenovo\source\repos\PersonDataAccess\bin\Debug\PersonDataAccess.pdb
+C:\Users\Lenovo\source\repos\PersonDataAccess\obj\Debug\DVLDDataAccess.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\PersonDataAccess\obj\Debug\DVLDDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PersonDataAccess\obj\Debug\PersonDataAccess.dll
+C:\Users\Lenovo\source\repos\PersonDataAccess\obj\Debug\PersonDataAccess.pdb
